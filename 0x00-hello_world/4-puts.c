@@ -4,6 +4,7 @@
  *
  * return : always 0 (sucess)
  */
+/*Description*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
