@@ -1,10 +1,11 @@
-
 #include <stdio.h>
-
+/**
+ * main entry point
+ *
+ * reurn : always 0
+ */
 int main(void)
 {
-	//string initialisation
-	char a[32] =""Programming is like building a multilingual puzzle";
-	puts(a); //writing the string to stdout
-	return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
