@@ -2,9 +2,7 @@
 #define _LISTS_H
 
 #include <stdlib.h>
-#include <unistd.h>
-#include <asm/guarded_storage.h>
-#include <sys/syscall.h>
+
 
 /**
  * struct list_s - singly linked list
